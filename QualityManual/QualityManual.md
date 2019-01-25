@@ -1,4 +1,3 @@
-#TOC
 
 # 1	Introduction 
 
@@ -32,11 +31,10 @@ For a given service it includes definitions or information on:
 *    Assets, inventories and property management
 *    Role descriptions and qualifications
 
-1.2	Standards Compliance
-Depending on the service, several standards may be relevant to the design, implementation and operation of the service. Key examples are listed below, the actual standards considered will be listed in the conformance statement of the service.
+## 1.2	Standards Compliance
 
-Standard 	Title
-BS EN ISO 13485:2004	Medical Devices, Quality Management System, Particular Requirements for Regulatory Purposes
+Depending on the service, several standards may be relevant to the design, implementation and operation of the service. Key examples are listed below, the actual standards considered will be listed in the conformance statement of the service.
+	
 
 BS EN ISO 62304:2006	Medical Device Software — Software Life-cycle Processes
 
@@ -49,6 +47,10 @@ ISO 15223: 2007	Medical Devices, Symbols to be used with Medical Device Labels, 
 ISO 14155-1: 2003	Clinical Investigation of Medical Devices for Human Subjects – Part 1:
 General Requirements
 Directive	European Medical Device Directive 93/42/EEC; 2007/47/EC
+
+|Standard   | Title  |
+|---|---|
+|BS EN ISO 13485:2004   | Medical Devices, Quality Management System, Particular Requirements for Regulatory Purposes  | 
 
 Table 1. Relevant Standards
 
