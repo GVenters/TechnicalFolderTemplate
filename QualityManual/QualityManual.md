@@ -36,27 +36,21 @@ For a given service it includes definitions or information on:
 Depending on the service, several standards may be relevant to the design, implementation and operation of the service. Key examples are listed below, the actual standards considered will be listed in the conformance statement of the service.
 	
 
-BS EN ISO 62304:2006	Medical Device Software — Software Life-cycle Processes
-
-BS EN ISO 14971:2009	Medical Devices, Application of Risk Management to Medical Devices
-
-BS EN 1041: 2008	Information Supplied by the Manufacturer with Medical Devices
-
-ISO 15223: 2007	Medical Devices, Symbols to be used with Medical Device Labels, Labelling and Information to be Supplied
-
-ISO 14155-1: 2003	Clinical Investigation of Medical Devices for Human Subjects – Part 1:
-General Requirements
-Directive	European Medical Device Directive 93/42/EEC; 2007/47/EC
-
-|Standard   | Title  |
+| Standard |Title  |
 |---|---|
+|BS EN ISO 62304:2006  |Medical Device Software — Software Life-cycle Processes  |
+|BS EN ISO 14971:2009 |Medical Devices, Application of Risk Management to Medical Devices  |
+|BS EN 1041: 2008 | Information Supplied by the Manufacturer with Medical Devices |
+|ISO 15223: 2007 | Medical Devices, Symbols to be used with Medical Device Labels, Labelling and Information to be Supplied |
+| ISO 14155-1: 2003 |	Clinical Investigation of Medical Devices for Human Subjects – Part 1: General Requirements |
+| Directive |	European Medical Device Directive 93/42/EEC; 2007/47/EC|
 |BS EN ISO 13485:2004   | Medical Devices, Quality Management System, Particular Requirements for Regulatory Purposes  | 
 
 Table 1. Relevant Standards
 
 The quality manual encompasses several constituent processes:
-Control of documents
-Control of records
+*   Control of documents
+*   Control of records
 
  
 ## 2	Document Control
